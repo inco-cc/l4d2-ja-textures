@@ -1,0 +1,19 @@
+"AddonInfo"
+{
+	addonTitle			"L4D2日本語化テクスチャ"
+	addonDescription	"これは、英文を日本語に訳すのにいくつかのゲームテクスチャを変わるLeft 4 Dead 2のMODです。"
+	addonAuthor			"Inco"
+	addonVersion		"0.1.0"
+
+	addonContent_Campaign			0
+	addonContent_Map				0
+	addonContent_Skin				1
+	addonContent_Weapon				0
+	addonContent_BossInfected		0
+	addonContent_CommonInfected		0
+	addonContent_Survivor			0
+	addonContent_Sound				0
+	addonContent_Music				0
+	addonContent_Script				0
+	addonContent_Prop				0
+}
