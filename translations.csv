@@ -16,5 +16,10 @@ materials/signs/hotel_sign002,Banquet Hall B,宴会場Ｂ
 materials/signs/hotel_sign002,Banquet Hall C,宴会場Ｃ
 materials/signs/hotel_sign004,Kitchen,台所
 materials/signs/hotel_sign004,Security,警備
+materials/signs/sign_hotel_facemask01,Wear face mask at all times,常にマスクを着用してください
+materials/signs/sign_hotel_facemask01,Do not remove your face mask for any reason.,常にマスクを着用してくださいどのような理由があっても、決してマスクを外さないでください。
+materials/signs/sign_hotel_facemask01,If you require assistance, please ask a CEDA staff member to help you.,手助けが必要な場合はCEDAのスタッフにお声をおかけください。
+materials/signs/sign_hotel_patients,Please Note,注意
+materials/signs/sign_hotel_patients,You must be entered into our patient tracking system to receive care at this facility.,当施設で医療措置を受けるためには患者位置把握装置を身につけていただく必要があります。
 materials/signs/sign_hotel_timetable,Medical Transport Timetable,医療輸送予定表
 materials/signs/sign_hotel_timetable,2 CEDA EVWS personnel must accompany every transport vehicle.,全ての輸送車両には２名のCEDA職員の同乗が必要です。
