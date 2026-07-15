@@ -6,6 +6,25 @@ materials/models/props_interiors/ceda_easel01,Subject: “Boomer”,件名：ブ
 materials/models/props_interiors/ceda_easel01,Alarm Pheromones,警報フェロモン
 materials/models/props_interiors/ceda_easel01,Chemical Signal?,化学信号？
 materials/models/props_interiors/ceda_easel01,Bile is agression trigger.,胆汁が攻撃合図になる。
+materials/models/props_interiors/ceda_easel01b,Evacutaion Center Route Designations,避難センター経路指定図
+materials/models/props_interiors/ceda_easel01b,No Firearms,火器の所有を禁ず
+materials/models/props_interiors/ceda_easel01b,Firearm possession is not permitted in accordance with CEDA Emergency Management and Public Safety Policies,CEDAの危機管理及び公衆安全政策に基づき、火器の所有は禁止されています
+materials/models/props_interiors/ceda_easel01b,Preparing Your Saferoom,セーフルームの備えについて
+materials/models/props_interiors/ceda_easel01b,Items your saferoom should include:,セーフルームには以下の物を用意してください：
+materials/models/props_interiors/ceda_easel01b,An adequate supply,十分な量の生活必需品
+materials/models/props_interiors/ceda_easel01b,Non-perishable foods,保存食
+materials/models/props_interiors/ceda_easel01b,A first-aid kit,救急キット
+materials/models/props_interiors/ceda_easel01b,A flashlight,フラッシュライト
+materials/models/props_interiors/ceda_easel01b,Necessary prescription medicines,必要な処方薬
+materials/models/props_interiors/ceda_easel01b,"Note: In accordance with CEDA Emergency Management Policies, firearm possession in not permitted.",注意：CEDAの危機管理及び公衆安全政策に基づき、火器の所有は禁止されています。
+materials/models/props_interiors/ceda_easel01b,Telephone Directory,電話帳
+materials/models/props_interiors/ceda_easel01b,FAX,ファクス
+materials/models/props_interiors/ceda_easel01b,Savannah Press,サバンナ・プレス
+materials/models/props_interiors/ceda_easel01b,Midnight Riders,ミッドナイトライダーズ
+materials/models/props_interiors/ceda_easel01b,Tour Cancelled?,ツアー中止？
+materials/models/props_interiors/ceda_easel01b,Entertainment Section,エンターテインメント
+materials/models/props_interiors/ceda_easel01b,"You may already be infected, expert warns",あなたも既に感染しているかもしれないと専門家が警告
+materials/models/props_interiors/ceda_easel01b,"Green Flu hits, airport shut down",緑インフルエンザ広まる、空港閉鎖
 materials/models/props_interiors/ceda_table_maps,Evacuation Center Routes,避難センター経路指定図
 materials/models/props_interiors/ceda_table_maps,"Region 3, South Atlantic",３地域・サウスアトランティック
 materials/signs/hotel_sign001,Roof Access,屋上アクセス
