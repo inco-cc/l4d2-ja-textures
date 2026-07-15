@@ -2,6 +2,7 @@
 
 !.gitignore
 
+!ja_textures/addonimage.jpg
 !ja_textures/addoninfo.txt
 !ja_textures/materials/**/*.vtf
 
