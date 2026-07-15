@@ -1,4 +1,13 @@
 Texture,English,Japanese
+materials/models/props_interiors/ceda_easel01,“Boomer”,「ブーマー」
+materials/models/props_interiors/ceda_easel01,Infection Ratio Figures,感染率グラフ
+materials/models/props_interiors/ceda_easel01,Memo,メーモ
+materials/models/props_interiors/ceda_easel01,Subject: “Boomer”,件名：ブーマー
+materials/models/props_interiors/ceda_easel01,Alarm Pheromones,警報フェロモン
+materials/models/props_interiors/ceda_easel01,Chemical Signal?,化学信号？
+materials/models/props_interiors/ceda_easel01,Bile is agression trigger.,胆汁が攻撃合図になる。
+materials/models/props_interiors/ceda_table_maps,Evacuation Center Routes,避難センター経路指定図
+materials/models/props_interiors/ceda_table_maps,"Region 3, South Atlantic",３地域・サウスアトランティック
 materials/signs/hotel_sign001,Roof Access,屋上アクセス
 materials/signs/hotel_sign001,Stairs Access,階段アクセス
 materials/signs/hotel_sign001,Stairs,階段
@@ -23,5 +32,3 @@ materials/signs/sign_hotel_patients,Please Note,注意
 materials/signs/sign_hotel_patients,You must be entered into our patient tracking system to receive care at this facility.,当施設で医療措置を受けるためには患者位置把握装置を身につけていただく必要があります。
 materials/signs/sign_hotel_timetable,Medical Transport Timetable,医療輸送予定表
 materials/signs/sign_hotel_timetable,2 CEDA EVWS personnel must accompany every transport vehicle.,全ての輸送車両には２名のCEDA職員の同乗が必要です。
-materials/models/props_interiors/cade_table_maps,Evacuation Center Routes,避難センター経路指定図
-materials/models/props_interiors/cade_table_maps,"Region 3, South Atlantic",３地域・サウスアトランティック
