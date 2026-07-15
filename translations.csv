@@ -1,4 +1,7 @@
 Texture,English,Japanese
+materials/models/props_fortifications/police_barrier001,Police,警察
+materials/models/props_fortifications/police_barrier001,Police Line,警察の非常線
+materials/models/props_fortifications/police_barrier001,Do not cross,立ち入り禁止
 materials/models/props_interiors/ceda_easel01,“Boomer”,「ブーマー」
 materials/models/props_interiors/ceda_easel01,Infection Ratio Figures,感染率グラフ
 materials/models/props_interiors/ceda_easel01,Memo,メーモ
