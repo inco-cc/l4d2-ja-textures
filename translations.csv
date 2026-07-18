@@ -2,6 +2,9 @@ Texture,English,Japanese
 materials/models/props_fortifications/police_barrier001,Police,警察
 materials/models/props_fortifications/police_barrier001,Police Line,警察の非常線
 materials/models/props_fortifications/police_barrier001,Do not cross,立ち入り禁止
+materials/models/props_highway/highway_signs102,Interstate,州間高速道路
+materials/models/props_highway/highway_signs102,East,東方
+materials/models/props_highway/highway_signs102,Montgomery Street,モントゴメリー・ストリート
 materials/models/props_highway/highway_signs103,Liberty Mall,リバティモール
 materials/models/props_highway/highway_signs103,Next Exit,次の出口
 materials/models/props_interiors/ceda_easel01,“Boomer”,「ブーマー」
