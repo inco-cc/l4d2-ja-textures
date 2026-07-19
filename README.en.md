@@ -6,4 +6,4 @@ This is an addon for [Left 4 Dead 2](https://store.steampowered.com/app/550/Left
 
 ## Download
 
-This addon is available on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3765085863).
+This addon is available on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3765085863&l=english).

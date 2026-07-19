@@ -6,4 +6,4 @@
 
 ## ダウンロード
 
-このMODは[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3765085863)にあります。
+このMODは[Steamワークショップ](https://steamcommunity.com/sharedfiles/filedetails/?id=3765085863&l=japanese)にあります。
