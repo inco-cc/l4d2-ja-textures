@@ -35,6 +35,8 @@ materials/models/props_interiors/ceda_easel01b,"You may already be infected, exp
 materials/models/props_interiors/ceda_easel01b,"Green Flu hits, airport shut down",緑インフルエンザ広まる、空港閉鎖
 materials/models/props_interiors/ceda_table_maps,Evacuation Center Routes,避難センター経路指定図
 materials/models/props_interiors/ceda_table_maps,"Region 3, South Atlantic",３地域・サウスアトランティック
+materials/overlays/sign_16,Tow Away Zone,レッカー移動区域
+materials/overlays/sign_16,Unauthorized vehicles or vessels will be towed away at owner's expense,無許可車両が所有者の負担でレッカー移動される
 materials/overlays/sign_24,Danger,危険
 materials/overlays/sign_24,No Trespassing,立入り禁止
 materials/overlays/sign_30,High Voltage,高圧
