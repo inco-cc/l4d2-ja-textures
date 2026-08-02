@@ -1,75 +1,77 @@
-Texture,English,Japanese
-materials/models/props_fortifications/police_barrier001,Police,警察
-materials/models/props_fortifications/police_barrier001,Police Line,警察の非常線
-materials/models/props_fortifications/police_barrier001,Do not cross,立ち入り禁止
-materials/models/props_highway/highway_signs004,Interstate,州間高速道路
-materials/models/props_highway/highway_signs004,Exit,出口
-materials/models/props_highway/highway_signs004,West,西
-materials/models/props_highway/highway_signs004,South,南
-materials/models/props_highway/highway_signs004,Freeway Entrance,高速道路入り口
-materials/models/props_highway/highway_signs101,West,ウエスト
-materials/models/props_highway/highway_signs101,Atlanta,アトランタ
-materials/models/props_highway/highway_signs102,Interstate,州間高速道路
-materials/models/props_highway/highway_signs102,East,イースト
-materials/models/props_highway/highway_signs102,Montgomery Street,モントゴメリーストリート
-materials/models/props_highway/highway_signs103,Liberty Mall,リバティモール
-materials/models/props_highway/highway_signs103,Next Exit,次の出口
-materials/models/props_interiors/ceda_easel01,“Boomer”,「ブーマー」
-materials/models/props_interiors/ceda_easel01,Infection Ratio Figures,感染率グラフ
-materials/models/props_interiors/ceda_easel01,Memo,メーモ
-materials/models/props_interiors/ceda_easel01,Subject: “Boomer”,件名：ブーマー
-materials/models/props_interiors/ceda_easel01,Alarm Pheromones,警報フェロモン
-materials/models/props_interiors/ceda_easel01,Chemical Signal?,化学信号？
-materials/models/props_interiors/ceda_easel01,Bile is agression trigger.,胆汁が攻撃合図になる。
+テクスチャ,英語,日本語
+materials/decals/sign02,UNDER VIDEO SURVEILLANCE,ビデオ監視下
+materials/models/props_fortifications/police_barrier001,POLICE,警察
+materials/models/props_fortifications/police_barrier001,POLICE LINE,警察の非常線
+materials/models/props_fortifications/police_barrier001,DO NOT CROSS,立ち入り禁止
+materials/models/props_highway/highway_signs004,INTERSTATE,州間高速道路
+materials/models/props_highway/highway_signs004,EXIT,出口
+materials/models/props_highway/highway_signs004,WEST,西
+materials/models/props_highway/highway_signs004,SOUTH,南
+materials/models/props_highway/highway_signs004,FREEWAY ENTRANCE,高速道路入り口
+materials/models/props_highway/highway_signs101,WEST,ウエスト
+materials/models/props_highway/highway_signs101,ATLANTA,アトランタ
+materials/models/props_highway/highway_signs102,INTERSTATE,州間高速道路
+materials/models/props_highway/highway_signs102,EAST,イースト
+materials/models/props_highway/highway_signs102,MONTGOMERY STREET,モントゴメリーストリート
+materials/models/props_highway/highway_signs103,LIBERTY MALL,リバティモール
+materials/models/props_highway/highway_signs103,NEXT EXIT,次の出口
+materials/models/props_interiors/ceda_easel01,“BOOMER”,「ブーマー」
+materials/models/props_interiors/ceda_easel01,INFECTION RATIO FIGURES,感染率グラフ
+materials/models/props_interiors/ceda_easel01,MEMO,メーモ
+materials/models/props_interiors/ceda_easel01,SUBJECT: “BOOMER”,件名：ブーマー
+materials/models/props_interiors/ceda_easel01,ALARM PHEROMONES,警報フェロモン
+materials/models/props_interiors/ceda_easel01,CHEMICAL SIGNAL?,化学信号？
+materials/models/props_interiors/ceda_easel01,BILE IS AGRESSION TRIGGER.,胆汁が攻撃合図になる。
 materials/models/props_interiors/ceda_easel01b,Evacutaion Center Route Designations,避難センター経路指定図
-materials/models/props_interiors/ceda_easel01b,No Firearms,火器の所有を禁ず
-materials/models/props_interiors/ceda_easel01b,Firearm possession is not permitted in accordance with CEDA Emergency Management and Public Safety Policies,CEDAの危機管理及び公衆安全政策に基づき、火器の所有は禁止されています
-materials/models/props_interiors/ceda_easel01b,Preparing Your Saferoom,セーフルームの備えについて
-materials/models/props_interiors/ceda_easel01b,Items your saferoom should include:,セーフルームには以下の物を用意してください：
-materials/models/props_interiors/ceda_easel01b,An adequate supply,十分な量の生活必需品
-materials/models/props_interiors/ceda_easel01b,Non-perishable foods,保存食
-materials/models/props_interiors/ceda_easel01b,A first-aid kit,救急キット
-materials/models/props_interiors/ceda_easel01b,A flashlight,フラッシュライト
-materials/models/props_interiors/ceda_easel01b,Necessary prescription medicines,必要な処方薬
-materials/models/props_interiors/ceda_easel01b,"Note: In accordance with CEDA Emergency Management Policies, firearm possession in not permitted.",注意：CEDAの危機管理及び公衆安全政策に基づき、火器の所有は禁止されています。
+materials/models/props_interiors/ceda_easel01b,NO FIREARMS,火器の所有を禁ず
+materials/models/props_interiors/ceda_easel01b,FIREARM POSSESSION IS NOT PERMITTED IN ACCORDANCE WITH CEDA EMERGENCY MANAGEMENT AND PUBLIC SAFETY POLICIES,CEDAの危機管理及び公衆安全政策に基づき、火器の所有は禁止されています
+materials/models/props_interiors/ceda_easel01b,PREPARING YOUR SAFEROOM,セーフルームの備えについて
+materials/models/props_interiors/ceda_easel01b,ITEMS YOUR SAFEROOM SHOULD INCLUDE:,セーフルームには以下の物を用意してください：
+materials/models/props_interiors/ceda_easel01b,AN ADEQUATE SUPPLY,十分な量の生活必需品
+materials/models/props_interiors/ceda_easel01b,NON-PERISHABLE FOODS,保存食
+materials/models/props_interiors/ceda_easel01b,A FIRST-AID KIT,救急キット
+materials/models/props_interiors/ceda_easel01b,A FLASHLIGHT,フラッシュライト
+materials/models/props_interiors/ceda_easel01b,NECESSARY PRESCRIPTION MEDICINES,必要な処方薬
+materials/models/props_interiors/ceda_easel01b,"NOTE: IN ACCORDANCE WITH CEDA EMERGENCY MANAGEMENT POLICIES, FIREARM POSSESSION IS NOT PERMITTED.",注意：CEDAの危機管理及び公衆安全政策に基づき、火器の所有は禁止されています。
 materials/models/props_interiors/ceda_easel01b,Telephone Directory,電話帳
 materials/models/props_interiors/ceda_easel01b,FAX,ファクス
 materials/models/props_interiors/ceda_easel01b,Savannah Press,サバンナ・プレス
-materials/models/props_interiors/ceda_easel01b,Midnight Riders,ミッドナイトライダーズ
-materials/models/props_interiors/ceda_easel01b,Tour Cancelled?,ツアー中止？
-materials/models/props_interiors/ceda_easel01b,Entertainment Section,エンターテインメント
-materials/models/props_interiors/ceda_easel01b,"You may already be infected, expert warns",あなたも既に感染しているかもしれないと専門家が警告
-materials/models/props_interiors/ceda_easel01b,"Green Flu hits, airport shut down",緑インフルエンザ広まる、空港閉鎖
+materials/models/props_interiors/ceda_easel01b,MIDNIGHT RIDERS,ミッドナイトライダーズ
+materials/models/props_interiors/ceda_easel01b,TOUR CANCELLED?,ツアー中止？
+materials/models/props_interiors/ceda_easel01b,ENTERTAINMENT SECTION,エンターテインメント
+materials/models/props_interiors/ceda_easel01b,"YOU MAY ALREADY BE INFECTED, EXPERT WARNS",あなたも既に感染しているかもしれないと専門家が警告
+materials/models/props_interiors/ceda_easel01b,"GREEN FLU HITS, AIRPORT SHUT DOWN",緑インフルエンザ広まる、空港閉鎖
 materials/models/props_interiors/ceda_table_maps,Evacuation Center Routes,避難センター経路指定図
 materials/models/props_interiors/ceda_table_maps,"Region 3, South Atlantic",３地域・サウスアトランティック
-materials/overlays/sign_16,Tow Away Zone,レッカー移動区域
-materials/overlays/sign_16,Unauthorized vehicles or vessels will be towed away at owner's expense,無許可車両が所有者の負担でレッカー移動される
-materials/overlays/sign_24,Danger,危険
-materials/overlays/sign_24,No Trespassing,立入り禁止
-materials/overlays/sign_30,High Voltage,高圧
-materials/signs/hotel_sign001,Roof Access,屋上アクセス
-materials/signs/hotel_sign001,Stairs Access,階段アクセス
-materials/signs/hotel_sign001,Stairs,階段
-materials/signs/hotel_sign001,Storage,納戸
-materials/signs/hotel_sign001,Elevators,エレベータ
-materials/signs/hotel_sign001,Lobby,ロビー
-materials/signs/hotel_sign001,Lounge,ラウンジ
-materials/signs/hotel_sign002,Floor 8,８階
-materials/signs/hotel_sign002,Floor 7,７階
-materials/signs/hotel_sign002,Suite A,スイートＡ
-materials/signs/hotel_sign002,Suite B,スイートＢ
-materials/signs/hotel_sign002,Housekeeping,家事
-materials/signs/hotel_sign002,Banquet Hall A,宴会場Ａ
-materials/signs/hotel_sign002,Banquet Hall B,宴会場Ｂ
-materials/signs/hotel_sign002,Banquet Hall C,宴会場Ｃ
-materials/signs/hotel_sign004,Kitchen,台所
-materials/signs/hotel_sign004,Security,警備
-materials/signs/sign_gunshop,Whitaker,ウィテカー
-materials/signs/sign_gunshop,Gun Shop,ガン・ショップ
-materials/signs/sign_hotel_facemask01,Wear face mask at all times,常にマスクを着用してください
-materials/signs/sign_hotel_facemask01,Do not remove your face mask for any reason.,どのような理由があっても、決してマスクを外さないでください。
-materials/signs/sign_hotel_facemask01,"If you require assistance, please ask a CEDA staff member to help you.",手助けが必要な場合はCEDAのスタッフにお声をおかけください。
-materials/signs/sign_hotel_patients,Please Note,注意
-materials/signs/sign_hotel_patients,You must be entered into our patient tracking system to receive care at this facility.,当施設で医療措置を受けるためには患者位置把握装置を身につけていただく必要があります。
-materials/signs/sign_hotel_timetable,Medical Transport Timetable,医療輸送予定表
-materials/signs/sign_hotel_timetable,2 CEDA EVWS personnel must accompany every transport vehicle.,全ての輸送車両には２名のCEDA職員の同乗が必要です。
+materials/overlays/sign_16,TOW AWAY ZONE,レッカー移動区域
+materials/overlays/sign_16,UNAUTHORIZED VEHICLES OR VESSELS WILL BE TOWED AWAY AT OWNER’S EXPENSE,無許可車両が所有者の負担でレッカー移動される
+materials/overlays/sign_24,DANGER,危険
+materials/overlays/sign_24,NO TRESPASSING,立入り禁止
+materials/overlays/sign_30,HIGH VOLTAGE,高圧
+materials/signs/hotel_sign001,ROOF ACCESS,屋上アクセス
+materials/signs/hotel_sign001,STAIRS ACCESS,階段アクセス
+materials/signs/hotel_sign001,STAIRS,階段
+materials/signs/hotel_sign001,STORAGE,納戸
+materials/signs/hotel_sign001,ELEVATORS,エレベータ
+materials/signs/hotel_sign001,LOBBY,ロビー
+materials/signs/hotel_sign001,LOUNGE,ラウンジ
+materials/signs/hotel_sign002,FLOOR 8,８階
+materials/signs/hotel_sign002,FLOOR 7,７階
+materials/signs/hotel_sign002,SUITE A,スイートＡ
+materials/signs/hotel_sign002,SUITE B,スイートＢ
+materials/signs/hotel_sign002,HOUSEKEEPING,家事
+materials/signs/hotel_sign002,BANQUET HALL A,宴会場Ａ
+materials/signs/hotel_sign002,BANQUET HALL B,宴会場Ｂ
+materials/signs/hotel_sign002,BANQUET HALL C,宴会場Ｃ
+materials/signs/hotel_sign004,KITCHEN,台所
+materials/signs/hotel_sign004,SECURITY,警備
+materials/signs/sign_gunshop,WHITAKER’S,ウィテカー
+materials/signs/sign_gunshop,GUN SHOP,ガン・ショップ
+materials/signs/sign_hotel_facemask01,WEAR FACE MASK AT ALL TIMES,常にマスクを着用してください
+materials/signs/sign_hotel_facemask01,DO NOT REMOVE YOUR FACE MASK FOR ANY REASON.,どのような理由があっても、決してマスクを外さないでください。
+materials/signs/sign_hotel_facemask01,"IF YOU REQUIRE ASSISTANCE, PLEASE ASK A CEDA STAFF MEMBER TO HELP YOU.",手助けが必要な場合はCEDAのスタッフにお声をおかけください。
+materials/signs/sign_hotel_patients,PLEASE NOTE,注意
+materials/signs/sign_hotel_patients,YOU MUST BE ENTERED INTO OUR PATIENT TRACKING SYSTEM TO RECEIVE CARE AT THIS FACILITY.,当施設で医療措置を受けるためには患者位置把握装置を身につけていただく必要があります。
+materials/signs/sign_hotel_timetable,MEDICAL TRANSPORT TIMETABLE,医療輸送予定表
+materials/signs/sign_hotel_timetable,2 CEDA EVWS PERSONNEL MUST ACCOMPANY EVERY TRANSPORT VEHICLE.,全ての輸送車両には２名のCEDA職員の同乗が必要です。
+materials/signs/sign_misc_21,CLOSED,閉店
