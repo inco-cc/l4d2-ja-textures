@@ -1,5 +1,7 @@
 テクスチャ,英語,日本語
 materials/decals/sign02,UNDER VIDEO SURVEILLANCE,ビデオ監視下
+materials/models/props_equipment/firepipe02,DANGER,危険
+materials/models/props_equipment/firepipe02,FIRE,火事
 materials/models/props_fortifications/police_barrier001,POLICE,警察
 materials/models/props_fortifications/police_barrier001,POLICE LINE,警察の非常線
 materials/models/props_fortifications/police_barrier001,DO NOT CROSS,立ち入り禁止
