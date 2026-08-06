@@ -49,7 +49,10 @@ materials/overlays/sign_16,TOW AWAY ZONE,レッカー移動区域
 materials/overlays/sign_16,UNAUTHORIZED VEHICLES OR VESSELS WILL BE TOWED AWAY AT OWNER’S EXPENSE,無許可車両が所有者の負担でレッカー移動される
 materials/overlays/sign_24,DANGER,危険
 materials/overlays/sign_24,NO TRESPASSING,立入り禁止
+materials/overlays/sign_30,DANGER,危険
 materials/overlays/sign_30,HIGH VOLTAGE,高圧
+materials/signs/closed01,SORRY,すみません
+materials/signs/closed01,WE’RE CLOSED,閉店
 materials/signs/hotel_sign001,ROOF ACCESS,屋上アクセス
 materials/signs/hotel_sign001,STAIRS ACCESS,階段アクセス
 materials/signs/hotel_sign001,STAIRS,階段
