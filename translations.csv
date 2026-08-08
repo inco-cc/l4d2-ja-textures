@@ -72,8 +72,14 @@ materials/signs/hotel_sign004,KITCHEN,台所
 materials/signs/hotel_sign004,SECURITY,警備
 materials/signs/sign_gunshop,WHITAKER’S,ウィテカー
 materials/signs/sign_gunshop,GUN SHOP,ガン・ショップ
+materials/signs/sign_gunshop01,LICENSED BAIL BONDS,公認保釈保証書
+materials/signs/sign_gunshop01,GUNS & AMMO,火器と弾薬
+materials/signs/sign_gunshop01,FULL AUTO SHOTGUNS,フルオート散弾銃
+materials/signs/sign_gunshop01,"WE BUY, SELL AND TRADE USED GUNS",中古銃を売買します
+materials/signs/sign_gunshop01,WRITERS OF BAD CHECKS WILL BE SHOT.,不渡り小切手を切ったら撃たれるよ。
+materials/signs/sign_gunshop01,HUNTING AND FISHING PERMITS AVAILABLE HERE,狩りと釣り許可証が入手可能です
 materials/signs/sign_gunshop01,MEMBER DISCOUNT ON AMMUNITION,会員向け弾薬割引
-materials/signs/sign_gunshop01,PERSONAL DEFENSE TRAINING CLASSES AVAILABLE,自衛授業が提供です
+materials/signs/sign_gunshop01,PERSONAL DEFENSE TRAINING CLASSES AVAILABLE,自衛授業が入手可能です
 materials/signs/sign_gunshop01,OPEN 364 DAYS A YEAR,通年営業中
 materials/signs/sign_gunshop01,HANDGUN CLEANING,拳銃クリーニング
 materials/signs/sign_gunshop01,NO SMOKING,禁煙
