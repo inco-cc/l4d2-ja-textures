@@ -2,6 +2,7 @@
 
 !/dist
 !/src
+!/.gitattributes
 !/.gitignore
 !/README.*md
 !/translations.csv
